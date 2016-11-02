@@ -1,9 +1,9 @@
 {
   "apps": [{
-    "serverURL": "",
-    "appId": "",
-    "masterKey": "",
-    "appName": "",
+    "serverURL": "http://parseagain.herokuapp.com/parse",
+    "appId": "parser",
+    "masterKey": "myMasterKey",
+    "appName": "parseagain",
     "iconName": ""
   }],
   "iconsFolder": "icons"
